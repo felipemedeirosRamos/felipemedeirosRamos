@@ -1,6 +1,5 @@
 ### Olá, Eu sou Luiz Felipe.
 
-- 🔭 Gosto de programação
 - 🌱 Estudante de programação
 <div align="center">
   <a href="https://github.com/felipemedeirosRamos">
